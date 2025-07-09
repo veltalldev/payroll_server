@@ -1,0 +1,30 @@
+[
+  {
+    "timestamp": "2025-07-07T17:17:31.635874",
+    "entry_ids": [
+      17,
+      39,
+      47,
+      38,
+      45
+    ],
+    "reason": "weekend shifts, approved",
+    "count": 5
+  },
+  {
+    "timestamp": "2025-07-09T15:29:10.691278",
+    "entry_ids": [
+      500
+    ],
+    "reason": "confirmed long shifts",
+    "count": 1
+  },
+  {
+    "timestamp": "2025-07-09T15:29:21.941733",
+    "entry_ids": [
+      502
+    ],
+    "reason": "confirmed long shift",
+    "count": 1
+  }
+]
